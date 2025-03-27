@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Ruby on Rails, Javascript, ViewComponents, Tailwind, Stimulus<br>💬 Ask me about - all of the above<br>⚡ Fun fact - I speak dog
+🔭 I’m currently working on - Ruby on Rails, Javascript, ViewComponents, Tailwind, Stimulus<br>💬 Ask me about - all of the above<br>
 
 
 ## 🌐 Socials:
